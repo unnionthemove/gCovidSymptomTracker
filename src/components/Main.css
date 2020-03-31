@@ -1,0 +1,16 @@
+div {
+    text-align:left;
+    }
+    h1 {
+        text-align:center;
+        }
+/* basic positioning */
+.legend { list-style: none; }
+.legend li { float: left; margin-right: 10px; }
+.legend span { border: 1px solid #ccc; float: left; width: 12px; height: 12px; margin: 2px; }
+/* your colors */
+.legend .superawesome { background-color: #076d04; }
+.legend .awesome { background-color: #67f862; }
+.legend .kindaawesome { background-color: #f7f307; }
+.legend .notawesome { background-color: #fa9829; }
+.legend .not { background-color: #f84545; }

@@ -3,6 +3,14 @@
 
 App live at https://g-covidtracker.web.app/
 
+A blog about the app and the design condition from the author
+
+Part 1
+https://medium.com/@unnikrishnakurup/covid-19-symptom-tracker-2-7f2e8b529bc0
+
+Part 2
+https://medium.com/@unnikrishnakurup/covid-19-symptom-tracker-a1e7b9bd6d46
+
 * * *
 
 Mark yourself and symptoms if any. In this way, we can accurately mark the area getting affected. In the current scenario where the governmental agencies cannot test all the people with symptoms, this is an exercise which will help track the hotbeds. Representatives of the Finnish Health Agency was mentioning that if they had an app to check the symptoms of people by location, it would help them a lot. Health care officials and governments are trying to tackle the ever growing number of Covid-19 cases, it is practically impossible to track and test each individual who is showing very few symptoms or even none.
